@@ -1,0 +1,7 @@
+Inscription / Connexion 
+public une question 
+Modifier une question 
+supprimer une question 
+recherche et afficher les question 
+Repondre a une question 
+afficher le profail d'un utilisateur (avec ses publication ) 
